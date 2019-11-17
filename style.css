@@ -26,13 +26,9 @@ figcaption { text-align: center;
   
 }
 
-a:hover {
-  text-decoration: none;
-}
-
 
 section#details {
-  width: 800px
+  
   display: block;
  
 }
