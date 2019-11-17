@@ -6,7 +6,7 @@ body {
 
 
 Header { text-align: center}
-p {{ text-align: center}
+p { text-align: center}
 
 
 nav a {
@@ -30,7 +30,7 @@ figcaption { text-align: center;
 
 p {
  width: 800px;
- 
+ text-align: center
   
 }
 
