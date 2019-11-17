@@ -50,8 +50,7 @@ section#details {
 div {
   
   background-color: red;
- 
-  overflow:hidden;
+  float: left;
   
 }
 
