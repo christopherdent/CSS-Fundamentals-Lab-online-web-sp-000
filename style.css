@@ -41,15 +41,15 @@ section#details {
   
  display: block;
  background-color: pink;
- float: left;
+ 
 }
 
 
 
 div {
-  
+  float: left;
   text-align: justify;
- 
+  width: 25%;
   
 }
 
