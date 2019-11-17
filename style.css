@@ -23,7 +23,6 @@ img {
 }
 
 figcaption { text-align: center;
-  width: 800px; 
   
 }
 
@@ -33,7 +32,7 @@ a:hover {
 
 
 section#details {
-  
+  width: 80px
   display: block;
  
 }
