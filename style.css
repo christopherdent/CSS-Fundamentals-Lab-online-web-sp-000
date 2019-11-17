@@ -40,7 +40,7 @@ display: block;
 section#details {
   
  display: block;
- background-color: pink;
+ 
  
 }
 
@@ -50,7 +50,7 @@ div {
   float: left;
   text-align: justify;
   width: 25%;
-  
+  background-color: pink;
 }
 
 
